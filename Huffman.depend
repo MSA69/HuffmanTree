@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1445482236 source:c:\users\matt\desktop\c++ stuff\huffman\bitchar.cpp
+	"bitChar.hpp"
+
+1445482236 c:\users\matt\desktop\c++ stuff\huffman\bitchar.hpp
+	<sstream>
+	<fstream>
+	<string>
+	<stdlib.h>
+
+1445649906 source:c:\users\matt\desktop\c++ stuff\huffman\main.cpp
+	<fstream>
+	"tree.hpp"
+	"tree.cpp"
+	<vector>
+
+1341075808 c:\users\matt\desktop\c++ stuff\huffman\huffman.h
+	<map>
+	<vector>
+	<string>
+	"Node.h"
+
+1341075808 c:\users\matt\desktop\c++ stuff\huffman\node.h
+	<map>
+	<vector>
+	<string>
+
+1445642941 source:c:\users\matt\desktop\c++ stuff\huffman\huffman.cpp
+	<map>
+	<vector>
+	<string>
+	<algorithm>
+	<iostream>
+	<fstream>
+	"Huffman.h"
+	"Node.h"
+
+1341075808 source:c:\users\matt\desktop\c++ stuff\huffman\node.cpp
+	<iostream>
+	"Node.h"
+
+1445820065 c:\users\matt\desktop\c++ stuff\huffman\tree.hpp
+	<iostream>
+	<vector>
+
+1445820440 c:\users\matt\desktop\c++ stuff\huffman\tree.cpp
+	"tree.hpp"
+	<algorithm>
+
